@@ -1,6 +1,6 @@
 # Ateliers de professionnalisation – BTS SIO SISR
 
-**15 ateliers autonomes** pour préparer le portfolio et les épreuves E5 (oral) et E6 (pratique et orale) du BTS SIO option SISR, et pour développer des compétences transverses et techniques. Auteur : Yahn LE PRETTRE - Formateur – licence CC BY-NC-SA 4.0.
+**15 ateliers autonomes** pour préparer le portfolio et les épreuves E5 (oral) et E6 (pratique et orale) du BTS SIO option SISR, et pour développer des compétences transverses et techniques. Auteur : Yahn LE PRETTRE - Formateur – licence CC BY-NC-SA 4.0. Utilisation dans une formation payante ou financée (CFA, OPCO) : accord préalable de l'auteur, voir `docs/ressources/licences.md`.
 
 **Site (GitHub Pages) :** <https://yahnlp.github.io/bts1-sio-sisr-ateliers/>
 
