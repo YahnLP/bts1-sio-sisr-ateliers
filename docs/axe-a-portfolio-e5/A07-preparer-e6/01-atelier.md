@@ -47,6 +47,26 @@ Méthode en cinq temps :
 **4.** Un utilisateur « production » lit et écrit dans « Production » ; le même utilisateur est refusé dans « Direction » ; un membre de la direction lit « Direction » ; accès refusé depuis un autre réseau ; une sauvegarde de test est restaurée.
 </details>
 
+## 2 bis. Ce que la circulaire 2026 ajoute
+
+- **Ressources** : les ressources électroniques du centre d'examen sont autorisées, **y compris les services en ligne**, à l'exception de tout service de **communication avec un tiers** (messagerie, forum, discussion). Les connexions peuvent être **contrôlées**.
+- **Matériel** : l'épreuve se passe sur l'équipement du centre, ou sur un équipement que tu apportes. Renseigne-toi **avant** sur le matériel disponible.
+- **Dossier** : les fiches descriptives de tes **deux réalisations** indiquent les **modalités d'accès aux éléments techniques** (schémas, documentation, ressources utilisées). Elles doivent couvrir **à elles deux** toutes les compétences du bloc 2 de l'option.
+- **Environnement** : les deux réalisations ont été faites dans un environnement **conforme à l'annexe II.E** du diplôme.
+- **Commission** : elle peut **étendre** l'interrogation à la maîtrise de l'environnement technologique si tu n'as pas pu répondre à sa demande.
+
+> [!WARNING]
+> **Pénalités** : une réalisation absente, **10 points** ; les deux absentes, **20 points** ; environnement non conforme à l'annexe II.E, **jusqu'à 15 points**.
+
+**Exercice.** Un candidat a une note de profil de 16/20. Une seule de ses deux réalisations est présentée dans le dossier. Quelle est sa note finale ? Que peut-il faire avant la remise du dossier pour l'éviter ?
+
+<details markdown="1">
+<summary>Voir la réponse</summary>
+
+\(16 - 10 = 6\) sur 20. Avant la remise, il choisit une **deuxième réalisation** (déjà faite ou à faire), la décrit avec le modèle de fiche, vérifie qu'elle respecte l'environnement technologique et que les deux réalisations couvrent **toutes** les compétences du bloc 2.
+
+</details>
+
 ## 3. Organiser l'heure de réalisation
 
 | Principe | Application |

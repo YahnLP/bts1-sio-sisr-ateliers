@@ -15,6 +15,29 @@ L'épreuve **E5 – Support et mise à disposition de services informatiques** e
 > [!NOTE]
 > Le modèle officiel du tableau de synthèse et la grille d'évaluation sont dans la **circulaire nationale d'organisation de l'examen** : ils ne sont pas reproduits ici. Récupère toujours la version de ta session.
 
+**Ce que la circulaire 2026 ajoute (à connaître avant de construire le portfolio).**
+
+- Le portfolio doit être **accessible en format électronique** pour la commission, **avant et pendant l'épreuve** ; c'est de **ta seule responsabilité**. S'il est inaccessible : **10 points de pénalité**.
+- Le **tableau de synthèse** (modèle `.xlsx` de la circulaire) est obligatoire : son absence coûte **2 points**. Il donne, pour chaque réalisation, un intitulé court, les productions associées, la **période** et les compétences mobilisées.
+- Les réalisations doivent avoir été faites dans un **environnement technologique conforme à l'annexe II.E** du diplôme.
+- Un **contrôle de conformité** de ton dossier a lieu avant l'épreuve.
+- La note est sur 20, **arrondie au point supérieur**, et justifiée par une **fiche d'appréciation** remplie pour tous les candidats.
+
+### Exercice : calculer l'effet des pénalités
+
+Un candidat a une note de profil de **14/20**.
+
+1. Son portfolio est accessible mais il n'a pas remis de tableau de synthèse : quelle est sa note finale ?
+2. Son tableau de synthèse est remis mais le lien du portfolio ne s'ouvre pas pour la commission : quelle est sa note finale ?
+3. Que dois-tu vérifier, et **quand**, pour éviter chacun de ces cas ?
+
+<details markdown="1">
+<summary>Voir la réponse</summary>
+
+1. \(14 - 2 = 12\) sur 20. 2. \(14 - 10 = 4\) sur 20. 3. Ouvrir le portfolio depuis **un autre poste et un autre compte** (sans être connecté), vérifier que les droits d'accès sont ouverts à la commission, et **tester le lien le jour même de la remise du dossier et la veille de l'épreuve** ; vérifier que le tableau de synthèse est bien joint au dossier, dans le bon format.
+
+</details>
+
 ## 2. Les six compétences du bloc
 
 | N° | Compétence | Exemple de réalisation |

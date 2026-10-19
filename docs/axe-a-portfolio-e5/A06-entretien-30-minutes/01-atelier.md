@@ -53,6 +53,20 @@ Pendant **30 minutes**, la commission demande d'**expliciter** le parcours et d'
 | Montrer **comment je chercherais** : « Je consulterais la documentation de… » | Se justifier longuement |
 | Rattacher à ce que je **sais** | Se renfermer |
 
+## 5 bis. Comment la commission apprécie ta prestation
+
+La commission s'appuie sur une grille d'aide à l'évaluation (circulaire, annexe VI-3). Elle apprécie, pour les compétences du bloc, un **niveau de maîtrise** : *non maîtrisé*, *maîtrise partielle*, *bonne maîtrise*, *excellente maîtrise* (ou *non évaluable* si la compétence n'est pas mise en œuvre). Les axes d'appréciation sont les mêmes d'une compétence à l'autre :
+
+| Axe | Ce qui fait la différence entre « bonne » et « excellente » maîtrise |
+|---|---|
+| **Informations et besoins** | Tu identifies et exploites les besoins et contraintes ; en excellente maîtrise, tu les **analyses de façon pertinente avec des outils** |
+| **Réponse au besoin** | Tu atteins les objectifs ; en excellente maîtrise, tu **proposes des solutions pertinentes** avec des gains notables et tu **anticipes** les contraintes |
+| **Démarche et technologies** | Réalisation rigoureuse, technologies appropriées ; en excellente maîtrise, démarche **agile et réactive**, **plusieurs solutions envisagées** |
+| **Erreurs** | Tu identifies et **résous** les erreurs ; en excellente maîtrise, tu les **documentes** |
+| **Communication** | Claire et explicite ; en excellente maîtrise, **adaptée à l'interlocuteur** et **argumentée de façon étayée** |
+
+Au début de chaque réponse d'entraînement, demande-toi : « qu'est-ce que je montre sur chacun de ces cinq axes ? ». La note finale est sur 20, **arrondie au point supérieur**, et justifiée par une fiche d'appréciation remplie pour tous les candidats.
+
 ## 6. Entraînement en trinôme
 
 Le **candidat** présente une réalisation en une minute ; le **jury** pose cinq à six questions ; l'**observateur** remplit la grille.
