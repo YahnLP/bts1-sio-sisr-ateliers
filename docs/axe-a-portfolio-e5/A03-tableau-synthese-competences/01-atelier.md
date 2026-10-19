@@ -11,7 +11,16 @@ Le texte officiel exige que l'ensemble des réalisations présentées mobilise *
 Pour chaque croix, écris une **justification d'une phrase** (« C1 : j'ai inventorié 34 postes et saisi leurs numéros de licence »).
 
 > [!NOTE]
-> Le tableau de synthèse officiel est fourni par la circulaire nationale d'organisation. La matrice ci-dessus est ton **outil de travail** : elle sert à préparer le tableau officiel.
+> Le tableau de synthèse officiel est fourni par la circulaire nationale d'organisation (modèle `.xlsx`, annexe VI-1). La matrice ci-dessus est ton **outil de travail** : elle sert à préparer le tableau officiel.
+
+**Ce que le tableau officiel te demande pour chaque réalisation** : un **intitulé court**, la **liste des productions et documents associés**, la **période** au cours de laquelle elle a été faite, et les compétences mobilisées. Garde donc, dans ta matrice de travail, deux colonnes de plus :
+
+| Réalisation | Période | Productions associées | C1 | C2 | C3 | C4 | C5 | C6 |
+|---|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| (titre court) | (mois, année) | (fiche, schéma, rapport...) |  |  |  |  |  |  |
+
+> [!WARNING]
+> **L'absence de tableau de synthèse coûte 2 points** à la note de l'épreuve. Joins-le au dossier, dans le format demandé.
 
 ## 2. Exercice : la matrice de Lina (fictive)
 
