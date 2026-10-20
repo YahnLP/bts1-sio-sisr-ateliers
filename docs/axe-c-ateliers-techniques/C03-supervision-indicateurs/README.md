@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; répondre aux incidents |
 | **Prérequis** | Notions de Linux |
 | **Livrable** | Un **tableau de supervision** (indicateur, seuil, action) et un **relevé commenté**. |
+| **Co-animation** | Possible avec l'enseignant du bloc technique concerné ou le tuteur. **À définir avec l'équipe.** |
 
 ## Objectifs
 

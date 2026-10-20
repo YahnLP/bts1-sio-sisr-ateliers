@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; gérer le patrimoine informatique |
 | **Prérequis** | Bases de la ligne de commande Linux |
 | **Livrable** | Un **script**, une **tâche planifiée** et une **preuve de restauration**. |
+| **Co-animation** | Possible avec l'enseignant du bloc technique concerné ou le tuteur. **À définir avec l'équipe.** |
 
 ## Objectifs
 

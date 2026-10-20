@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Compétences du bloc « Administration des systèmes et des réseaux » (option SISR) |
 | **Prérequis** | A02 |
 | **Livrable** | Une **analyse d'expression de besoins** et un **plan de réalisation chronométré**. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Répondre aux incidents et demandes ; organiser son développement professionnel |
 | **Prérequis** | Aucun |
 | **Livrable** | Trois messages rédigés : une demande d'assistance, une réponse à un utilisateur, un compte rendu. |
+| **Co-animation** | Possible selon le thème (CEJM, anglais, enseignant du bloc concerné). **À définir avec l'équipe.** |
 
 ## Objectifs
 

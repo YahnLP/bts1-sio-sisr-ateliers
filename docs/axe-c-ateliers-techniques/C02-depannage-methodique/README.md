@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Répondre aux incidents et demandes d'assistance |
 | **Prérequis** | Aucun |
 | **Livrable** | Deux **tickets** complets (diagnostic, action, vérification). |
+| **Co-animation** | Possible avec l'enseignant du bloc technique concerné ou le tuteur. **À définir avec l'équipe.** |
 
 ## Objectifs
 

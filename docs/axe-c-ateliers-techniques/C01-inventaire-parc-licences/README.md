@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Gérer le patrimoine informatique |
 | **Prérequis** | Aucun |
 | **Livrable** | Une **analyse d'inventaire** et un **plan de renouvellement** chiffré. |
+| **Co-animation** | Possible avec l'enseignant du bloc technique concerné ou le tuteur. **À définir avec l'équipe.** |
 
 ## Objectifs
 

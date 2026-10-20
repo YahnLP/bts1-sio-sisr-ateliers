@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Toutes |
 | **Prérequis** | A01, A02 |
 | **Livrable** | Ma **matrice de couverture** et un **plan d'action**. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 
