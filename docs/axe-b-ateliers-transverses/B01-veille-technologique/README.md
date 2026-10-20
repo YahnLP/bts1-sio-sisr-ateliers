@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Organiser son développement professionnel |
 | **Prérequis** | Aucun |
 | **Livrable** | Un **plan de veille** et un **premier bulletin** d'une page. |
+| **Co-animation** | Possible selon le thème (CEJM, anglais, enseignant du bloc concerné). **À définir avec l'équipe.** |
 
 ## Objectifs
 

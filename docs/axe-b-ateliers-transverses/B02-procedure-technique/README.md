@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; répondre aux incidents et demandes |
 | **Prérequis** | Aucun |
 | **Livrable** | Une **procédure** d'une page, testée par un camarade. |
+| **Co-animation** | Possible selon le thème (CEJM, anglais, enseignant du bloc concerné). **À définir avec l'équipe.** |
 
 ## Objectifs
 

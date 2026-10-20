@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Toutes selon la réalisation ; organiser son développement professionnel |
 | **Prérequis** | A01 |
 | **Livrable** | Une **fiche de réalisation** d'une à deux pages. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

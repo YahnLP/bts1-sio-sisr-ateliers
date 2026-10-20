@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Organiser son développement professionnel |
 | **Prérequis** | A02, A03 |
 | **Livrable** | Un **plan chronométré** et une **première répétition** enregistrée dans la grille. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

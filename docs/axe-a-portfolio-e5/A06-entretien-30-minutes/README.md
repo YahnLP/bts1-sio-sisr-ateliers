@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Toutes ; organiser son développement professionnel |
 | **Prérequis** | A05 |
 | **Livrable** | Une **fiche de préparation** avec les réponses à huit questions de la banque. |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

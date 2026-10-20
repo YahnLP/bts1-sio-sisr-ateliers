@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Toutes (vue d'ensemble) ; organiser son développement professionnel |
 | **Prérequis** | Aucun |
 | **Livrable** | Un **plan de collecte** (tableau remis à la fin de l'atelier). |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

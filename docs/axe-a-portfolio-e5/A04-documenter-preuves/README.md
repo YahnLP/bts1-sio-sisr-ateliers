@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; travailler en mode projet |
 | **Prérequis** | A02 |
 | **Livrable** | Un **dossier de preuves** pour une réalisation (captures, schéma, journal des tests). |
+| **Co-animation** | Possible avec l'enseignant de CEJM (dossier, oral). **À définir avec l'équipe.** |
 
 ## Objectifs
 

@@ -8,6 +8,7 @@
 | **Compétence(s) visée(s)** | Travailler en mode projet |
 | **Prérequis** | Aucun |
 | **Livrable** | Une **fiche de cadrage**, un **planning** et un **tableau de risques**. |
+| **Co-animation** | Possible selon le thème (CEJM, anglais, enseignant du bloc concerné). **À définir avec l'équipe.** |
 
 ## Objectifs
 
