@@ -3,7 +3,7 @@
 Les 19 ateliers durent **35 h 30** au total (durées indicatives des fiches). La grille sous statut scolaire prévoit **120 h** d'ateliers de professionnalisation en première année (2 × 60 h, annexe III.A du référentiel). Le volume réservé aux ateliers au CFA n'est pas précisé ici : à confirmer. Ce parcours indique **quels ateliers faire en priorité** si le temps réservé est inférieur à la durée totale.
 
 > [!NOTE]
-> Ce classement est une **proposition de l'auteur, à valider** par l'équipe pédagogique. Il ne retire rien du site : chaque atelier reste disponible, et son statut est rappelé dans sa fiche. Les ateliers sont **autonomes** : sauter un complément ne bloque aucun autre atelier.
+> Il ne retire rien du site : chaque atelier reste disponible, et son statut est rappelé dans sa fiche. Les ateliers sont **autonomes** : sauter un complément ne bloque aucun autre atelier.
 
 ## Principe
 
