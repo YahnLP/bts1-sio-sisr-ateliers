@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe B – Ateliers transverses |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Mini-projet : seul atelier sur la compétence « travailler en mode projet ». Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Travailler en mode projet |
 | **Prérequis** | Aucun |
 | **Livrable** | Une **fiche de cadrage**, un **planning** et un **tableau de risques**. |

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe A – Portfolio et épreuves E5/E6 |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Entretien de 30 minutes : seconde partie de l'épreuve E5. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Toutes ; organiser son développement professionnel |
 | **Prérequis** | A05 |
 | **Livrable** | Une **fiche de préparation** avec les réponses à huit questions de la banque. |
