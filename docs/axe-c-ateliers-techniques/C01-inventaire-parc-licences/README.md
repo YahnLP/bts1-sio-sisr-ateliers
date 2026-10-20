@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe C – Ateliers techniques |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Inventaire et plan de renouvellement : compétence « gérer le patrimoine informatique ». Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Gérer le patrimoine informatique |
 | **Prérequis** | Aucun |
 | **Livrable** | Une **analyse d'inventaire** et un **plan de renouvellement** chiffré. |

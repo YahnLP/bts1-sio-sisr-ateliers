@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe C – Ateliers techniques |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Complément** – Script de sauvegarde : exercice technique de mise à disposition ; les compétences sont déjà portées par d'autres ateliers. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; gérer le patrimoine informatique |
 | **Prérequis** | Bases de la ligne de commande Linux |
 | **Livrable** | Un **script**, une **tâche planifiée** et une **preuve de restauration**. |

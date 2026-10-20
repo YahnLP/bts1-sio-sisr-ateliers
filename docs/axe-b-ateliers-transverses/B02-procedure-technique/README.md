@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe B – Ateliers transverses |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Complément** – Procédure technique : utile, mais la mise par écrit d'une réalisation est aussi travaillée dans A02 et A04. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; répondre aux incidents et demandes |
 | **Prérequis** | Aucun |
 | **Livrable** | Une **procédure** d'une page, testée par un camarade. |

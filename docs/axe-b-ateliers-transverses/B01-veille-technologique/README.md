@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe B – Ateliers transverses |
 | **Durée indicative** | 1 h 30 |
+| **Parcours** | **Cœur** – Veille : seul atelier dédié à cette pratique, attendue dans le portfolio (organiser son développement professionnel). Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Organiser son développement professionnel |
 | **Prérequis** | Aucun |
 | **Livrable** | Un **plan de veille** et un **premier bulletin** d'une page. |

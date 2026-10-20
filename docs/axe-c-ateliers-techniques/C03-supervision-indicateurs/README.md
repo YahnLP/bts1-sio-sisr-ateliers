@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe C – Ateliers techniques |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Complément** – Supervision : exercice technique de mise à disposition ; les compétences sont déjà portées par d'autres ateliers. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Mettre à disposition un service ; répondre aux incidents |
 | **Prérequis** | Notions de Linux |
 | **Livrable** | Un **tableau de supervision** (indicateur, seuil, action) et un **relevé commenté**. |

@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe A – Portfolio et épreuves E5/E6 |
 | **Durée indicative** | 1 h 30 |
+| **Parcours** | **Cœur** – Comprendre l'épreuve E5 et lancer le portfolio : prérequis de A02 et A03. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Toutes (vue d'ensemble) ; organiser son développement professionnel |
 | **Prérequis** | Aucun |
 | **Livrable** | Un **plan de collecte** (tableau remis à la fin de l'atelier). |

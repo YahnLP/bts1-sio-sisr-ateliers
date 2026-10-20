@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe B – Ateliers transverses |
 | **Durée indicative** | 1 h 30 |
+| **Parcours** | **Complément** – Communication professionnelle : la rédaction de messages d'assistance est aussi travaillée dans les tickets de C02. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Répondre aux incidents et demandes ; organiser son développement professionnel |
 | **Prérequis** | Aucun |
 | **Livrable** | Trois messages rédigés : une demande d'assistance, une réponse à un utilisateur, un compte rendu. |

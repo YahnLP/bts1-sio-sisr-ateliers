@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe A – Portfolio et épreuves E5/E6 |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Méthode de l'épreuve E6 : seul atelier consacré à l'E6. Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Compétences du bloc « Administration des systèmes et des réseaux » (option SISR) |
 | **Prérequis** | A02 |
 | **Livrable** | Une **analyse d'expression de besoins** et un **plan de réalisation chronométré**. |

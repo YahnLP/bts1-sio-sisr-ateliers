@@ -5,6 +5,7 @@
 | **Niveau** | BTS SIO option SISR – atelier de professionnalisation |
 | **Axe** | Axe C – Ateliers techniques |
 | **Durée indicative** | 2 h |
+| **Parcours** | **Cœur** – Dépannage méthodique : compétence « répondre aux incidents et demandes ». Voir le [parcours cœur et complément](../../ressources/parcours-coeur-complement.md). |
 | **Compétence(s) visée(s)** | Répondre aux incidents et demandes d'assistance |
 | **Prérequis** | Aucun |
 | **Livrable** | Deux **tickets** complets (diagnostic, action, vérification). |
